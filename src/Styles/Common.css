@@ -1,0 +1,19 @@
+.navBtn{
+    margin: 0 10px;
+    padding: 10px;
+    transition: .2s;
+    color:black;
+    text-decoration: none;
+}
+.navBtn:hover{
+    color:rgb(136, 136, 136);
+    background-color: rgb(228, 228, 228);
+    transition: .2s;
+    border-radius: 20px;
+}
+
+.formContainer{
+    width: 350px;
+    position: relative;
+    margin: auto;
+}
