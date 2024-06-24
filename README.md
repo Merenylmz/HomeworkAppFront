@@ -1,10 +1,9 @@
 # HomeworkApp Front Section
 
-Bu proje Homework App projesinin front kısmı bu kısımda React ve Redux kullanıldı 
+This project is the front part of the Homework App project, React and Redux were used in this part. 
 
-# Projeyi çalıştırmak için
-"npm install" yazıp paketleri kurun ve "npm run start" yazıp çalıştırın
+To run the project;
+type "npm install" to install the packages and type "npm run start" to run
 
 For more information m.erenyilmaz2007@gmail.com
-
  
